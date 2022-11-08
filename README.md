@@ -52,5 +52,5 @@
 ### SHAP Feature impact for single observation(class 0)
 ![Alt text](https://github.com/hariprasath-v/Zindi_UmojaHack-India-Income-Prediction-Challenge/blob/main/Model%20visualization/Shap%20Feature%20impact%20single%20observation%20for%20class%200.png)
 
-### SHAP Feature impact for single observation(class 0)
+### SHAP Feature impact for single observation(class 1)
 ![Alt text](https://github.com/hariprasath-v/Zindi_UmojaHack-India-Income-Prediction-Challenge/blob/main/Model%20visualization/Shap%20Feature%20impact%20single%20observation%20for%20class%201.png)
