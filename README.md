@@ -46,7 +46,7 @@
 ### Catboost – SHAP feature importances
 ![Alt text](https://github.com/hariprasath-v/Zindi_UmojaHack-India-Income-Prediction-Challenge/blob/main/Model%20visualization/Catboost%20Shap%20-%20feature%20importances%20plot.png)
 
-### Catboost – SHAP top feature importances
+### Catboost – SHAP top feature impact
 ![Alt text](https://github.com/hariprasath-v/Zindi_UmojaHack-India-Income-Prediction-Challenge/blob/main/Model%20visualization/Catboost%20Shap%20-%20top%20feature%20impact.png)
 
 ### SHAP Feature impact for single observation(class 0)
