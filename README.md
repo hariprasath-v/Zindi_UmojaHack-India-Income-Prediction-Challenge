@@ -14,14 +14,14 @@
 
 ### File information
  
- * zindi-income-prediction-challenge-umojahack-eda.ipynb 
+ * zindi-income-prediction-challenge-umojahack-eda.ipynb [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/hari141v/zindi-income-prediction-challenge-umojahack-eda)
     #### Basic Exploratory Data Analysis
     #### Packages Used,
         * seaborn
         * Pandas
         * Numpy
         * Matplotlib
-* zindi-income-prediction-challenge-umojahack-model.ipynb
+* zindi-income-prediction-challenge-umojahack-model.ipynb [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/hari141v/zindi-income-prediction-challenge-umojahack-model)
     #### Data Pre-processing and model. 
     #### Packages Used,
         * Sklearn
