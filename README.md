@@ -14,7 +14,7 @@
 
 ### File information
  
- * zindi-income-prediction-challenge-umojahack-eda.ipynb
+ * zindi-income-prediction-challenge-umojahack-eda.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hariprasath-v/Zindi_UmojaHack-India-Income-Prediction-Challenge/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fhariprasath-v%2FZindi_UmojaHack-India-Income-Prediction-Challenge%2Fblob%2Fmain%2Fzindi-income-prediction-challenge-umojahack-eda.ipynb)
     #### Basic Exploratory Data Analysis
     #### Packages Used,
         * seaborn
